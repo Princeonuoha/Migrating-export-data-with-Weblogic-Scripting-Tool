@@ -10,7 +10,7 @@ and run the command ./wlst.sh
 
 2. The scripting tool starts, but it is offline....so first, run the command below:
 
-connect('weblogic','magnus20c','t3://eposbi:9500/console')
+connect('your weblogic username: usually 'weblogic'','your domain password','t3://eposbi:9500/console')
 
 3. run the command below
       domainRuntime()
